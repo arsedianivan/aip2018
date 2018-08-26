@@ -31,9 +31,9 @@ mkdir \data\db
 mongod
 ```
 
-###Key principles of code style and design
+### Key principles of code style and design
 
-###Removed unused codes
+### Removed unused codes
 ```
 Bad
 <script>
@@ -52,7 +52,7 @@ export default {
 }
 ```
 
-###Use specific styling and begin with prefix, such as Base, App, or V as suggested in Vuejs.org
+### Use specific styling and begin with prefix, such as Base, App, or V as suggested in Vuejs.org
 ```
 Bad
 VueCalender.vue
@@ -63,7 +63,7 @@ or
 VCalender
 ```
 
-###Have seperate files for style
+### Have seperate files for style
 ```
 Bad
 <script>
