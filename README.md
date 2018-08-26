@@ -20,7 +20,13 @@ npm run build
 npm run lint
 ```
 
-### Mongodb connect
+### Install MongoDb
+```
+Create a folder called data to store.
+mkdir \data\db
+```
+
+### Run MongoDb
 ```
 mongod
 ```
